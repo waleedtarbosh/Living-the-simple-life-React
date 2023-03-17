@@ -1,0 +1,8 @@
+a {
+    color: #1792d2;
+  }
+  
+  a:hover,
+  a:focus {
+    color: #143774;
+  }
