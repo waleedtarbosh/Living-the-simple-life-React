@@ -1,0 +1,11 @@
+.container {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+  
+  .container-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
