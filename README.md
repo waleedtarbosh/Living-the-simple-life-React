@@ -161,13 +161,33 @@ Feel free to check the [issues page](https://github.com/waleedtarbosh/Living-the
 
 ## ✍️ Author
 
-**Waleed Tarbosh** - _Front-End Developer_
+<p align="center">
+  <a href="https://github.com/waleedtarbosh">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-- GitHub: [@waleedtarbosh](https://github.com/waleedtarbosh)
+<p align="center">
+  <strong>Waleed Tarbosh</strong><br/>
+  Front-End Developer<br/>
+  <em>Made with ❤️ and React magic</em>
+</p>
 
 ---
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-⬆️ [Back to Top](#living-the-simple-life---blog-app-)
+This project is open source and available under the [LICENSE](LICENSE).
+
+```text
+Copyright (c) 2026 Waleed Tarbosh
+```
+
+---
+
+<p align="center">
+  <br/>
+  <sub>⭐ If you found this project useful, please consider giving it a star on GitHub! ⭐</sub>
+  <br/><br/>
+  <a href="#living-the-simple-life---blog-app-">⬆️ Back to Top</a>
+</p>
