@@ -208,10 +208,15 @@ nav ul {
   list-style: none;
   padding: 0;
   display: flex;
-  gap: 2em;
+  gap: 1em;
   margin: 0;
-  flex-wrap: wrap;
   justify-content: center;
+}
+
+@media (min-width: 600px) {
+  nav ul {
+    gap: 2em;
+  }
 }
 
 nav a {
