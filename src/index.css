@@ -210,6 +210,8 @@ nav ul {
   display: flex;
   gap: 2em;
   margin: 0;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 nav a {
