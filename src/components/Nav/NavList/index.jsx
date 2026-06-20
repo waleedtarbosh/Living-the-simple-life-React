@@ -1,27 +1,24 @@
 import React from 'react'
+import { Link } from 'react-router';
 
 const NavList = () => {
   return (
    <>
     <nav>
       <ul>
-        
-{/* i will replace it when we use props  */} 
         <li>
-          <a className="current-page" href="index.html">
+          <Link className="current-page" to="/">
             Home
-          </a>
+          </Link>
         </li>
         <li>
-          <a href="about-me.html">About me</a>
+          <Link to="/about-me">About me</Link>
         </li>
         <li>
-          <a href="recent-post.html">Recent posts</a>
+          <Link to="/recent-posts">Recent posts</Link>
         </li>
       </ul>
     </nav>
-   
-   
    </>
   )
 }

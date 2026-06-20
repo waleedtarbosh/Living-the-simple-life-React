@@ -1,11 +1,12 @@
 import React from 'react'
+import { Link } from 'react-router';
 
 const index = () => {
   return (
    <>
-   <a href="/" className="article-read-more">
+   <Link to="/post" className="article-read-more">
       CONTINUE READING
-    </a>
+    </Link>
    </>
   )
 }

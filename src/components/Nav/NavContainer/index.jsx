@@ -1,7 +1,7 @@
 import React from 'react'
 import NavListContainer from '../NavListContainer';
 import SiteTitle from '../SiteTitle';
-import "./container.css";
+import styles from './container.module.css';
 const Nav = () => {
   return (
     <header>

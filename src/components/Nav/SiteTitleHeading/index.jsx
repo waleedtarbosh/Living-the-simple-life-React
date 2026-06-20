@@ -1,5 +1,5 @@
 import React from 'react'
-import "./titleh1.css";
+import styles from './titleh1.module.css';
 const H1 = () => {
   return (
    <>
