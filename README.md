@@ -24,20 +24,34 @@ Beyond its beautiful and calming design, the application is built with a focus o
     <tr>
       <th align="center">Screen</th>
       <th align="center">Desktop View</th>
-      <th align="center">Mobile View</th>
+      <th align="center">iPad Pro</th>
+      <th align="center">iPhone 14 Pro Max</th>
     </tr>
     <tr>
       <td align="center"><strong>Home Feed</strong></td>
-      <td align="center"><em><img src="./public/img/life.jpg" alt="Home Desktop Placeholder" width="300"/></em></td>
-      <td align="center"><em><img src="./public/img/life.jpg" alt="Home Mobile Placeholder" width="100"/></em></td>
+      <td align="center"><img src="./src/assets/pc-home.png" alt="Home Desktop" width="300"/></td>
+      <td align="center"><img src="./src/assets/i%20pad%20pro%20-home.png" alt="Home iPad" width="150"/></td>
+      <td align="center"><img src="./src/assets/i%20phone%2014%20pro%20max-home.png" alt="Home Mobile" width="80"/></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>About Me</strong></td>
+      <td align="center"><img src="./src/assets/pc-aboutme.png" alt="About Me Desktop" width="300"/></td>
+      <td align="center"><img src="./src/assets/i%20pad%20pro%20-aboutme.png" alt="About Me iPad" width="150"/></td>
+      <td align="center"><img src="./src/assets/i%20phone%2014%20pro%20max-aboutme.png" alt="About Me Mobile" width="80"/></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>Recent Posts</strong></td>
+      <td align="center"><img src="./src/assets/pc-recent-posts.png" alt="Recent Posts Desktop" width="300"/></td>
+      <td align="center"><img src="./src/assets/i%20pad%20pro%20-recent-posts.png" alt="Recent Posts iPad" width="150"/></td>
+      <td align="center"><img src="./src/assets/i%20phone%2014%20pro%20max-recent-posts.png" alt="Recent Posts Mobile" width="80"/></td>
     </tr>
     <tr>
       <td align="center"><strong>Dynamic Post</strong></td>
-      <td align="center"><em><img src="./public/img/work.jpg" alt="Post Desktop Placeholder" width="300"/></em></td>
-      <td align="center"><em><img src="./public/img/work.jpg" alt="Post Mobile Placeholder" width="100"/></em></td>
+      <td align="center"><img src="./src/assets/pc-product-details.png" alt="Post Desktop" width="300"/></td>
+      <td align="center"><img src="./src/assets/i%20pad%20pro%20-product-details.png" alt="Post iPad" width="150"/></td>
+      <td align="center"><img src="./src/assets/i%20phone%2014%20pro%20max-product-details.png" alt="Post Mobile" width="80"/></td>
     </tr>
   </table>
-  <p><em>*Note: Replace image paths with actual screenshots of your app later.</em></p>
 </div>
 
 ## 📖 Table of Contents
